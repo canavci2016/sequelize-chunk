@@ -1,0 +1,1 @@
+template pattern simple example
